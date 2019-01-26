@@ -1,0 +1,72 @@
+{
+  "HOME": {
+    "ALL_AMOUNT": {
+      "TITLE": "¿Cómo se ven tus finanzas?",
+      "SAVING": "Tienes en producto de ahorro",
+      "OBLIGATION": "Debes en productos de crédito"
+    },
+    "OFFER_PRODUCTS": "Oferta de productos",
+    "PRODUCTS": {
+      "TITLE": "Tus productos",
+      "EMPTY_PRODUCT": "No tienes productos",
+      "DETAIL": {
+        "TITLE": "Producto de",
+        "ERROR": "Producto no encontrado"
+      },
+      "ALL_PRODUCTS": "Mostrar todos los productos AVAL",
+      "OFFER_PRODUCTS_TITLE": "¿Quieres otro producto? Adquierelo aquí",
+      "LOADING_PRODUCT": "Cargando producto"
+    }
+  },
+  "PRODUCT": {
+    "CREDIT_CARD": {
+      "BUTTON_PAY": "Pagar",
+      "CUT_OFF_DATE": "Fecha de corte",
+      "FULL_PAYMENT": "Pago total",
+      "NEXT_PAYMENT": "Próximo pago"
+    },
+    "DEPOSIT_ACCOUNT": {
+      "BALANCE_AVAILABLE": "Saldo disponible",
+      "TOTAL_BALANCE": "Saldo total",
+      "POCKETS": "En bolsillos"
+    },
+    "CDT": {
+      "DATE": "Fecha de vencimiento"
+    },
+    "ERROR": {
+      "TITLE": "Error en la carga de tus productos",
+      "DESCRIPTION": "No es posible obtener la información de uno de tus productos.",
+      "BTN": "Intentar de nuevo"
+    },
+    "VIEW_DETAIL": "Ver detalle",
+    "NUMBER": "Nro"
+  },
+  "PRODUCT_TYPES": {
+    "DEPOSIT_ACCOUNT": "Cuenta de ahorro",
+    "CREDIT_CARD": "Tarjeta de crédito",
+    "CURRENT_ACCOUNT": "Cuenta corriente",
+    "CERTIFIED_DEPOSIT_TERM": "CDT"
+  },
+  "LOADING": "Cargando",
+  "REGARDS": {
+    "WELCOME": "Bienvenido"
+  },
+  "DETAIL": {
+    "TITLE": "Detalle",
+    "EMPTY": "Detalle vacios",
+    "MOVEMENTS_BTN": "Movimientos",
+    "STATEMENTS_BTN": "Extractos"
+  },
+  "MOVEMENT": {
+    "TITLE": "Movimientos",
+    "EMPTY": "No tienes movimientos"
+  },
+  "STATEMENT": {
+    "TITLE": "Extractos",
+    "EMPTY": "Extractos vacios",
+    "PERIOD": "Periodos",
+    "GENERATE_BTN": "Generar",
+    "DOWNLOAD_BTN": "Download"
+  },
+  "GO_BACK": "Volver"
+}
