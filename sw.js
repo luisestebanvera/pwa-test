@@ -4,6 +4,7 @@ const INMUTABLE_CACHE = 'inmutable-v1.0.0';
 
 
 const APP_SHELL = [
+    '/',
     'index.html',
     'https://d105cd6v88lith.cloudfront.net/favicon.ico',
     'https://d105cd6v88lith.cloudfront.net/**',
